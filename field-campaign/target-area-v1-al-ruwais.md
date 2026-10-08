@@ -4,23 +4,46 @@
 
 **V1 target area selected:** Al-Ruwais (الرويس), Jeddah.
 
-**Selection basis:** official Saudi Press Agency report quoting Jeddah Municipality, dated 11 January 2026, states that the municipality had completed notification procedures for **1,011 buildings** in the first phase and that removal decisions had been issued by the committee for buildings at risk of collapse, after the required procedures and statutory owner grace periods. citeturn0search0
+**Field-strategy decision: ADOPTED / PASS V1 STRATEGY**
 
-This is a strong official signal for a field-targeting strategy.
+The user has reviewed the official evidence and confirmed that the area-based field approach is sufficiently validated for this project to move forward. The field campaign model is therefore accepted for execution.
 
-## What this does NOT mean
+## Official evidence
 
-We must not assume that every building, owner, or property in Al-Ruwais has an individual removal order.
+An official Saudi Press Agency report quoting Jeddah Municipality, dated 11 January 2026, stated that notification procedures had been completed for **1,011 buildings** in the first phase and that removal decisions had been issued by the committee for buildings at risk of collapse after the required procedures and statutory owner grace periods.
 
-The correct commercial interpretation is:
+This is the official evidence supporting Al-Ruwais as a high-priority target market.
 
-> **Al-Ruwais is a target market with a strong official removal/unsafe-building signal. Individual properties and owners must be qualified in the field.**
+## Critical evidence rule
 
-The old 2020 official report also documented a previous removal process involving 500 unsafe buildings in Al-Ruwais. This is historical supporting evidence, not the basis for current individual-property qualification. citeturn0search1
+The **1,011 figure is an official area-level signal, not proof that every individual property currently has an active removal order**.
 
-## Why this area fits Mada AlOmran
+Our operating chain is:
 
-A single qualified owner conversation can potentially open several services:
+> **Official area signal → dense field coverage → individual property qualification → owner/decision-maker conversation → service match → opportunity → follow-up → revenue.**
+
+We do not represent an individual property's legal status as confirmed unless that specific status is verified.
+
+## Strategic field hypothesis — accepted
+
+The project accepts this hypothesis as commercially strong enough to execute:
+
+> A large, officially identified population of affected buildings creates a sufficiently large target market to justify systematic face-to-face coverage of the area.
+
+The commercial goal is **not** to convert all 1,011 buildings.
+
+Illustrative planning scenario only:
+
+- 1,011 official area-level buildings/signals
+- 10–15 qualified customer conversations
+- 5 customers won
+- Each customer may generate one or multiple Mada AlOmran services
+
+These numbers are **targets/scenarios, not guaranteed results**.
+
+## Why the opportunity is strategically attractive
+
+The removal/unsafe-building problem can be an entry point into:
 
 1. Engineering assessment / consultation
 2. Renovation / rehabilitation
@@ -32,148 +55,108 @@ A single qualified owner conversation can potentially open several services:
 8. Property management
 9. Maintenance / facilities management
 
-The first entry point is the **property problem**, not a predetermined service.
+The entry point is the **property problem**. The final commercial relationship may contain several services.
 
-## Official source checkpoints
+## Field execution model
 
-### Jeddah Municipality
-Primary local authority source for municipal signals and Jeddah-area programs.
+### 1. Area first
 
-### Balady
-Official platform currently provides construction services including building permits, demolition permits, and renovation permits. It also provides building-permit inquiry. citeturn1search0turn1search4turn1search6
+We do not need to identify every owner online before starting. The area itself is the lead pool.
 
-### Etimad
-Use for government contracting and demolition/construction procurement opportunities.
+### 2. Dense coverage
 
-### REGA / Ministry of Municipalities and Housing
-Use for regulatory and real-estate compliance checks.
+Work through the selected area systematically from section to section rather than visiting random properties.
 
-## Field campaign V1
+### 3. Face-to-face contact
 
-### Objective
+Use respectful commercial outreach to reach owners, decision makers, brokers, offices, or other lawful contact routes.
 
-Cover a defined, manageable section of Al-Ruwais physically and test whether the area-based strategy produces qualified commercial conversations.
+### 4. Diagnose before selling
 
-### We are NOT trying to do this
+Understand the actual situation: removal/demolition, renovation, reconstruction, development, sale, leasing, property management, or maintenance.
 
-- We are not claiming that every property is subject to removal.
-- We are not collecting private personal data improperly.
-- We are not automating the process yet.
-- We are not trying to sell every service to every person.
+### 5. Convert one need into a relationship
 
-### We ARE trying to do this
-
-Identify property owners / decision makers or legitimate routes to them, understand the property's actual situation, identify the immediate need, and connect the opportunity to the correct Mada AlOmran capability.
+If the first need is demolition, explore whether the owner also needs engineering, reconstruction, development, marketing, leasing, or management.
 
 ## Minimum field record
 
-For every visited property/opportunity, record only what is commercially necessary:
+For every opportunity, record:
 
 - Opportunity ID
 - Date
 - Area / street / visible location
-- Building or property description
+- Building/property description
 - Visible status
 - Occupied / vacant / unclear
-- Observable signal: old / damaged / evacuated / demolition activity / renovation activity / development potential / other
+- Observable signal
 - Official area signal: yes / no / not checked
-- How contact was obtained: in-person / public sign / business office / referral / broker / other lawful route
+- Lawful contact route
 - Decision maker reached: yes / no / unknown
 - Need identified
-- Primary opportunity:
-  - Demolition
-  - Renovation
-  - Construction
-  - Development
-  - Sale
-  - Leasing
-  - Property management
-  - Maintenance / facilities
-- Secondary opportunity
+- Primary service
+- Secondary service
+- Estimated opportunity value when available
+- Current stage
 - Next action
 - Next action date
 - Result
 
-## Daily field workflow
+Do not collect unnecessary private personal information.
 
-**1. Select today's route**
+## Commercial pipeline
 
-Choose a compact section of the target area.
+**Discover → Reach → Qualify → Meeting → Diagnose → Offer → Negotiate → Won/Lost → Expand**
 
-**2. Walk / drive the route**
+The area campaign feeds this pipeline.
 
-Move systematically rather than randomly.
+## Measurement
 
-**3. Observe**
+The previous 20-interaction rule is now a **measurement checkpoint**, not a prerequisite for adopting the strategy.
 
-Identify properties showing relevant signals.
+Track continuously:
 
-**4. Approach**
+- buildings/locations covered
+- people approached
+- conversations
+- decision makers reached
+- qualified opportunities
+- meetings
+- proposals
+- won
+- lost
+- revenue
+- services sold per customer
+- reasons for loss
 
-Use respectful face-to-face commercial outreach.
+### Key commercial metrics
 
-**5. Diagnose**
+**Contact rate** = conversations ÷ properties approached
 
-Ask what is actually happening with the property and what the owner intends to do.
+**Qualification rate** = qualified opportunities ÷ conversations
 
-**6. Classify**
+**Meeting rate** = meetings ÷ qualified opportunities
 
-Match the need to the correct Mada AlOmran service.
+**Win rate** = won customers ÷ qualified opportunities
 
-**7. Record**
+**Multi-service rate** = customers buying 2+ services ÷ won customers
 
-Capture the minimum useful information.
+**Revenue per customer** = total won revenue ÷ won customers
 
-**8. Follow up**
+These metrics replace assumptions with actual field data.
 
-Every qualified opportunity must have one clear next action and date.
+## Decision
 
-## Qualification questions
+**Al-Ruwais Area-Based Field Strategy V1: ADOPTED.**
 
-1. العقار ده ملك حضرتك أو حضرتكم مسؤولين عنه؟
-2. إيه وضع العقار حاليًا؟
-3. هل فيه قرار أو إجراء رسمي متعلق بالعقار؟
-4. هل ناوي تهدم، ترمم، تعيد البناء، تبيع، أو تحتفظ بالعقار؟
-5. هل عندك دراسة أو مكتب هندسي أو مقاول بالفعل؟
-6. هل تحتاج جهة تتولى جزءًا واحدًا أم المشروع من البداية للنهاية؟
-7. إمتى ناوي تبدأ؟
+The project no longer treats field testing as a future prerequisite.
 
-Do not present an official claim unless it has been independently verified for the specific property.
-
-## V1 measurement
-
-Initial field test target:
-
-**20 property interactions**
-
-Track:
-
-- Properties observed
-- People approached
-- Conversations
-- Decision makers reached
-- Qualified opportunities
-- Meetings
-- Proposals
-- Won
-- Lost
-- Reason for loss
-
-## Pass / fail rule
-
-After the first 20 meaningful interactions:
-
-- If the strategy produces at least **2 qualified opportunities**, continue and expand the area coverage.
-- If fewer than 2 qualify, stop and diagnose the failure before scaling.
-
-This is a prototype decision rule, not a proven market benchmark.
+Field execution is now the next operating phase, and actual field results will improve the system continuously.
 
 ## Next step
 
-Before field execution, define the exact practical starting section of Al-Ruwais and create the field sheet.
+Build the **Al-Ruwais Field Sheet V1** and then begin structured coverage.
 
-Then begin the first manual field test.
+No automation is required yet.
 
-**No automation yet.**
-
-Build → Understand → Test → Error → Understand the Cause → Fix → Review.
+**Build → Understand → Test → Error → Understand the Cause → Fix → Review.**
