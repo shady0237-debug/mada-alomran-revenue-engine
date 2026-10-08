@@ -1,114 +1,107 @@
 # Manual Test V1 — Jeddah Opportunity Discovery
 
+Date: 2026-10-08
+
 ## Purpose
 
-Test whether the discovery/classification method can consistently identify commercially attractive opportunities for Mada AlOmran in Jeddah before moving to a more automated sales system.
+Test whether the discovery/classification method can produce commercially useful opportunities for Mada AlOmran before building automation.
 
-**Important:** This is a market-discovery test, not yet a contact/conversion test. Public listings prove that an asset/project is being marketed or that a project demand signal exists; they do **not** prove that Mada AlOmran can reach the owner or win the business.
+**Important:** these are public-market opportunities, not confirmed Mada leads. Ownership, decision-maker access, actual need, and willingness to meet must be validated by Mada.
 
 ## Evidence Rule
 
-- Confirmed: directly stated in the public listing/platform.
-- Inference: our commercial interpretation.
-- Unknown: must be verified by Mada AlOmran/user through legitimate contact.
+- Confirmed: directly stated in the public listing/source.
+- Inference: commercial interpretation based on public signals.
+- Unknown: must be validated by Mada.
 - No private/personal contact data is copied into this test.
 
-## Sample Results
+## 1) Income-producing / rented buildings — 10 samples
 
-| ID | Pool | Opportunity | Public signal | Mada service | Score | Priority |
-|---|---|---|---|---|---:|---|
-| O-01 | Income | Al-Rawdah, Jeddah — fully leased investment building, annual income 662,500 SAR, 10-year lease | Fully leased + long contract + recent building | Property management / maintenance | 85 | A |
-| O-02 | Income | Al-Samer — two buildings, 16 apartments, fully leased, 800,000 SAR annual income | Fully leased + two assets + long contracts | Property management / maintenance | 85 | A |
-| O-03 | Income | Al-Rawdah — 12 apartments + 2 roof units + villa, fully leased, 800,000 SAR | Fully leased + high income + renovated | Property management / maintenance | 85 | A |
-| O-04 | Income | Al-Nuzhah — commercial/residential building, 370,000 SAR annual income | Shops + apartments leased + existing income | Property management / facilities | 80 | A |
-| O-05 | Income | Al-Waha — 14 apartments + driver room, fully leased, 369,000 SAR | 14 units + full occupancy | Property management / maintenance | 80 | A |
-| O-06 | Income | Al-Raghama — 18 apartments, 366,000 SAR annual income | 18 units + electronic leases | Property management / maintenance | 80 | A |
-| O-07 | Income | Al-Safa — 750 m² commercial/residential building, 280,000 SAR income | 9 apartments + 5 shops + old rents | Property management / rent optimization | 80 | A |
-| O-08 | Income | Al-Adl — 2,080 m² commercial/residential building, 540,000 SAR income | 34 rooms + 6 shops + income | Property management / facilities | 80 | A |
-| O-09 | Income | Al-Sharae — 500 m² building, ~300,000 SAR annual income | Multiple apartments + established income | Property management / maintenance | 75 | B |
-| O-10 | Income | Al-Rawdah — 524.5 m² building, 8 apartments + 2 roofs, 662,500 SAR income | Fully leased + 10-year contract | Property management / maintenance | 85 | A |
-| O-11 | Old / underperforming | Al-Adl — ~32-year building, 6 apartments, ~175,000 SAR income | Old asset + existing income | Management + renovation + maintenance | 90 | A |
-| O-12 | Old / underperforming | Al-Safa — ~30-year building, 575 m², ~300,000 SAR income | 30 years + leased + redevelopment potential | Management + renovation/development | 90 | A |
-| O-13 | Old / underperforming | Al-Safa — ~30-year building, 750 m², 275,000 SAR current income | Old rents unchanged for 15 years; stated potential 400,000 | Management + rent optimization + renovation | 95 | A |
-| O-14 | Old / underperforming | Al-Ghليل — >35-year building, 14 units, possible 4th floor | Old asset + expansion potential | Renovation/contracting + management | 95 | A |
-| O-15 | Old / underperforming | Al-Safa — ~26-year commercial building, 750 m², 300,000 SAR income | Older asset + commercial frontage + existing tenants | Management + maintenance/renovation | 85 | A |
-| O-16 | Development | Al-Nuzhah — 600 m² land on two streets, 3.3M SAR | Explicitly marketed for development | Engineering/development + contracting | 80 | A |
-| O-17 | Development | Al-Bawadi — 504 m² corner land, 3.024M SAR | Corner site + explicit development potential | Development + contracting | 80 | A |
-| O-18 | Development | Al-Salamah — 900 m² existing building sold at land value, 7M SAR | Existing building + land-value sale + 6-floor zone | Development/engineering + contracting | 95 | A |
-| O-19 | Contracting demand signal | Al-Tayseer — commercial showrooms, 587.53 m², steel-structure / structural works | Public project request for construction | Contracting/construction | 70* | B* |
-| O-20 | Contracting demand signal | Jeddah — two current/recent construction signals on Muqawil platform, including building/finishing demand | Platform shows repeated Jeddah construction opportunities | Contracting/maintenance | 65* | B* |
+| ID | Opportunity | Public signal | Asking | Income | Score | Mada angle |
+|---|---|---|---:|---:|---:|---|
+| O01 | Al-Sharafiyah | 4 shops + 27 residential units; current annual income 562k | 8.0M | 562k | 65 | Management + maintenance + leasing/sale |
+| O02 | Al-Salamah | 5 shops + rooms; current income 408.6k, potentially 462.6k | 7.2M | 408.6k | 65 | Management + maintenance |
+| O03 | Al-Rawdah | Fully leased; 10-year lease; 2 years old | 9.0M | 662.5k | 75 | Management + facilities |
+| O04 | Al-Nuzhah | Shops leased; apartments leased; annual income 370k | 5.25M | 370k | 65 | Management + leasing |
+| O05 | Al-Aziziyah | 2 apartments + 5 shops leased; stated income 280k | 5.0M | 280k | 60 | Management + maintenance |
+| O06 | Al-Adl | 6 apartments; leased; annual income ~175k; 32 years old | 1.95M | 175k | 65 | Management + rehabilitation |
+| O07 | Al-Shiraa | Multiple units; annual income ~300k | 3.7M | 300k | 60 | Management + maintenance |
+| O08 | Al-Faisaliyah | 52 apartments; annual income 1M | 12.0M | 1.0M | 75 | Management + facilities + future sale |
+| O09 | Al-Samer | Two adjacent buildings; fully leased; annual income 800k | 6.0M | 800k | 75 | Management + facilities |
+| O10 | Al-Safa | 20 apartments + rooms; fully leased; annual income 615k | 5.7M | 615k | 75 | Management + facilities |
 
-\* Contracting scores are provisional because the surfaced Muqawil examples have already passed their tender/award dates. They prove market demand, not a currently open tender.
+## 2) Old / underperforming / redevelopment signals — 5 samples
 
-## What the Test Shows
+| ID | Opportunity | Public signal | Asking | Score | Mada angle |
+|---|---|---|---:|---:|---|
+| O11 | Al-Zahra | 825 m²; 9 apartments; described as old and suitable for demolition | 8.25M | 75 | Engineering + contracting + development |
+| O12 | Al-Faisaliyah | 380 m²; old building; suitable for renovation or demolition/rebuild | 1.75M | 80 | Renovation/contracting + development |
+| O13 | Al-Nuzhah | 750 m²; >30 years; explicitly located in a development area | 3.4M | 80 | Development + engineering + contracting |
+| O14 | Al-Bawadi | 550 m²; >25 years; described as a demolition candidate; 10 apartments | 2.8M | 80 | Development + contracting |
+| O15 | Al-Murwah | 810 m²; 30-year-old building; potential for 6 floors and at least 16 apartments + 2 villas | 3.8M | 85 | Development + engineering + construction |
 
-### 1. The discovery method is producing the right type of opportunities
+## 3) Development-potential land — 3 samples
 
-The strongest pattern is not simply "properties for sale."
+| ID | Opportunity | Public signal | Asking | Score | Mada angle |
+|---|---|---|---:|---:|---|
+| O16 | Al-Khalidiyah | 820 m² residential land; current listing dated Oct 4, 2026 | 4.37M | 60 | Engineering feasibility + development |
+| O17 | Al-Muhammadiyah | 1,000 m² residential land; current listing dated Oct 4, 2026 | 4.75M | 60 | Development feasibility + construction |
+| O18 | Al-Sawari | 997 m² land in a plan marketed for 6-floor buildings | 4.75M | 65 | Development + construction + sales |
 
-The strongest pattern is:
+These are **development-potential** opportunities, not confirmed ready-to-build projects. Feasibility, zoning, permitted use, title, and owner intent must be verified.
 
-**Existing income + multiple units + old/inefficient operation + identifiable improvement opportunity.**
+## 4) Contracting / construction market test — 2 samples
 
-This is exactly where Mada can potentially combine several services instead of selling one service only.
+| ID | Opportunity | Public signal | Status | Score | Mada angle |
+|---|---|---|---|---:|---|
+| O19 | Children's Hospital in Jeddah — accessibility works | Public construction tender; 3-month contract; bid deadline 5 Oct 2026; expected award 17 Oct 2026 | Bid closed; award pending | 55 | Procurement benchmark + partner/subcontract route |
+| O20 | Jeddah Municipality infrastructure works | Public construction competition covering water, sewerage and stormwater networks; 24-month contract | Historical/closed tender | 60 | Contracting market validation + future procurement |
 
-### 2. The strongest first commercial pool
+These two are **market-demand samples**, not live leads. They prove relevant contracting demand exists; the next contracting test is finding live tenders and private projects where Mada can participate.
 
-The first pool to test in the field should be:
+## Preliminary Results
 
-**Owners of income-producing buildings where management, maintenance, rent optimization, renovation, or future sale/development can be combined.**
+### Highest-priority targets
 
-This gives a possible commercial flywheel:
+1. **O15 — Al-Murwah redevelopment signal — 85**
+2. **O12 — Al-Faisaliyah renovation/rebuild — 80**
+3. **O13 — Al-Nuzhah development signal — 80**
+4. **O14 — Al-Bawadi demolition/redevelopment — 80**
+5. **O03 / O08 / O09 / O10 — strong income-producing buildings — 75**
 
-Owner → Management → Maintenance → Renovation → Rent improvement → Sale/Development later.
+### What the test tells us
 
-### 3. The strongest individual signals
+The method is producing three commercially distinct opportunity pools:
 
-Highest-priority examples in this test:
+1. **Recurring revenue:** owners of income-producing buildings who may need property management, leasing, maintenance and facilities.
+2. **High-ticket transformation:** old/underperforming assets where Mada can potentially sell engineering → renovation/contracting → development → sales/management.
+3. **Development pipeline:** land/buildings where Mada can potentially enter before construction and capture multiple services.
 
-- O-13: Al-Safa — old rents + stated income gap.
-- O-14: Al-Ghليل — 35+ years + expansion potential.
-- O-18: Al-Salamah — building sold at land value + development potential.
-- O-11/O-12: old income-producing assets with management/renovation potential.
-- O-01/O-02/O-03: large, fully leased assets with recurring income.
+### What is NOT proven yet
 
-### 4. What is NOT proven yet
+This test does **not** prove that:
 
-We still do not know:
+- the owner is the actual decision maker;
+- the owner wants management/contracting/development;
+- Mada can reach the owner;
+- Mada can win the work;
+- the public asking price or income is accurate;
+- Mada has capacity/authority for every specific project.
 
-1. Who actually owns each asset.
-2. Whether the owner manages it personally or already uses a professional manager.
-3. Whether the owner has a current management/maintenance problem.
-4. Whether the owner is willing to meet Mada AlOmran.
-5. Whether Mada's licenses, capacity, pricing and team can serve each opportunity.
-6. The expected revenue/commission from each opportunity.
-7. Which acquisition channel converts best.
+## Next Real-World Test
 
-Therefore, **the next test is not more internet research.**
+Take the top 5 and validate four things:
 
-The next test is a controlled real-world contact test.
-
-## Next Field Test
-
-Take the top 5:
-
-1. O-13
-2. O-14
-3. O-18
-4. O-11
-5. O-01
-
-For each one, verify only five things:
-
-- Can we reach the decision maker?
-- Is the asset actually controlled by that person/entity?
-- Is there a real operational/commercial problem?
-- Is there openness to a meeting?
-- Which Mada service is the immediate entry point?
+1. Decision maker reached?
+2. Real business need confirmed?
+3. Meeting accepted?
+4. Which Mada service is the first service the owner will actually buy?
 
 Record the result as:
 
 **Reached → Qualified → Meeting → Proposal → Won/Lost**
+
+Only after this field validation should we calibrate the Opportunity Score and decide whether automation is worth building.
 
 ## Decision Rule
 
@@ -116,6 +109,27 @@ If at least **2 of the first 5** become qualified conversations, the discovery m
 
 If fewer than 2 qualify, we do not automate. We inspect the failure reason and change the discovery criteria first.
 
-## Sources
+## Source Notes
 
-Public market listings and project platforms used for this manual test include Bayut Saudi, Aqar, and Muqawil. The detailed source links are retained in the research record used to construct this test.
+Current public sources used in this test include Bayut Saudi, Aqar, Property Finder, public tender records, and public project/tender platforms. The research session retains the individual source references.
+
+## Source References Used
+
+- O01: public listing for Al-Sharafiyah, Jeddah — annual income 562k.
+- O02: public Aqar listing for Al-Salamah, Jeddah — annual income 408.6k.
+- O03: public Property Finder/Bayut listing for Al-Rawdah, Jeddah — fully leased, annual income 662.5k.
+- O04: public Bayut listing for Al-Nuzhah, Jeddah — annual income 370k.
+- O05: public Bayut listing for Al-Aziziyah, Jeddah — annual income 280k.
+- O06: public Bayut listing for Al-Adl, Jeddah — 32 years, annual income 175k.
+- O07: public Bayut listing for Al-Shiraa, Jeddah — annual income about 300k.
+- O08: public Bayut listing for Al-Faisaliyah, Jeddah — 52 apartments, annual income 1M.
+- O09: public Bayut listing for Al-Samer, Jeddah — two buildings, annual income 800k.
+- O10: public Bayut listing for Al-Safa, Jeddah — fully leased, annual income 615k.
+- O11: public Bayut listing 87870618 — Al-Zahra, old building suitable for demolition.
+- O12: public Bayut listing 88028151 — Al-Faisaliyah, old building suitable for renovation/demolition.
+- O13: public Bayut listing 88045780 — Al-Nuzhah, >30 years, development area.
+- O14: public Bayut listing 87809359 — Al-Bawadi, >25 years, demolition candidate.
+- O15: public Bayut listing 87933597 — Al-Murwah, 30 years, redevelopment potential.
+- O16–O18: current Bayut Jeddah land search results, including Al-Khalidiyah, Al-Muhammadiyah and Al-Sawari.
+- O19: public tender record for accessibility works at Children's Hospital in Jeddah.
+- O20: public tender record for Jeddah Municipality infrastructure works.
